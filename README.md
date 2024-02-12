@@ -1,7 +1,7 @@
 # Data-Science-com-Python
 Introdução a Data Science com Python
 
-Este repositório contém minhauma introdução abrangente ao mundo da Data Science utilizando a linguagem de programação Python, desenvolvido como parte do curso de Data Science da Alura.
+Este repositório contém minha introdução abrangente ao mundo da Data Science utilizando a linguagem de programação Python, desenvolvido como parte do curso de Data Science da Alura.
 
 Sobre
 Este notebook foi criado como parte do meu aprendizado no curso de Data Science da Alura, onde estou começando minha jornada neste fascinante mundo da ciência de dados.
